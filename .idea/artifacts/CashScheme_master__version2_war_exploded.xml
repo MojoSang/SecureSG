@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CashScheme-master -version2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CashScheme_master__version2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CashScheme-master -version2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CashScheme-master -version2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="Maven: com.github.alexandrnikitin:bloom-filter_2.11:0.10.1" />
+          <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.2" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.2" />
+          <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.3.4" />
+          <element id="library" level="project" name="Maven: com.google.guava:failureaccess:1.0.1" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:29.0-jre" />
+          <element id="library" level="project" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+          <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:1.3" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.19.4" />
+          <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.0.31" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+          <element id="library" level="project" name="Maven: it.unisa.dia.gas.jpbc:jpbc:2.0" />
+          <element id="library" level="project" name="Maven: it.unisa.dia.gas.plaf:plaf:2.0" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: junit:junit:4.11" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk15on:1.54" />
+          <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:2.11.1" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: org.json:json:20180130" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.11.8" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.24" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.24" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.24" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.24" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.24" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.24" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.24" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.24" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
